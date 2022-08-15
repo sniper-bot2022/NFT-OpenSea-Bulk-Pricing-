@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1tza7KgY+aOOD3N1MWvYNdwb00c+u+JvmdfN21wVLnthLqZ8eGFxknWuvxsU7RRyI2gUjhLkbF0vh9CUFd3iFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ÄGARE\\Desktop\\gitrepos\\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\\NFT-Opensea-Bulk-Pricing\\NFT-Opensea-Bulk-Pricing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ÄGARE\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ÄGARE\\.nuget\\packages\\selenium.webdriver\\4.2.0\\selenium.webdriver.4.2.0.nupkg.sha512",
+    "C:\\Users\\ÄGARE\\.nuget\\packages\\selenium.webdriver.chromedriver\\102.0.5005.6102\\selenium.webdriver.chromedriver.102.0.5005.6102.nupkg.sha512"
+  ],
+  "logs": []
+}

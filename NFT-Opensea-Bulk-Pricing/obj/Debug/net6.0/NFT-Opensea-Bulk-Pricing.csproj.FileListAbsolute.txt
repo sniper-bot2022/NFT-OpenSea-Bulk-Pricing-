@@ -1,0 +1,90 @@
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.exe
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.deps.json
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.runtimeconfig.json
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.pdb
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\WebDriver.dll
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.csproj.AssemblyReference.cache
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.AssemblyInfoInputs.cache
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.AssemblyInfo.cs
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.csproj.CoreCompileInputs.cache
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.csproj.CopyComplete
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\refint\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.pdb
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.genruntimeconfig.cache
+C:\Users\ÄGARE\Desktop\lokalarepo\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\ref\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.exe
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.deps.json
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.runtimeconfig.json
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.pdb
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\WebDriver.dll
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.csproj.AssemblyReference.cache
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.AssemblyInfoInputs.cache
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.AssemblyInfo.cs
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.csproj.CoreCompileInputs.cache
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.csproj.CopyComplete
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\refint\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.pdb
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.genruntimeconfig.cache
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\ref\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.exe
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.deps.json
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.runtimeconfig.json
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.pdb
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\WebDriver.dll
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.csproj.AssemblyReference.cache
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.AssemblyInfoInputs.cache
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.AssemblyInfo.cs
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.csproj.CoreCompileInputs.cache
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.csproj.CopyComplete
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\refint\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.pdb
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.genruntimeconfig.cache
+C:\Users\ÄGARE\Desktop\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\ref\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.exe
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.deps.json
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.runtimeconfig.json
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.pdb
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\WebDriver.dll
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.csproj.AssemblyReference.cache
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.AssemblyInfoInputs.cache
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.AssemblyInfo.cs
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.csproj.CoreCompileInputs.cache
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.csproj.CopyComplete
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\refint\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.pdb
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.genruntimeconfig.cache
+C:\Users\ÄGARE\Desktop\OpenSea-BotTestImprovements\NFT-Opensea-Bulk-Pricing - kopia\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\ref\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.exe
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.deps.json
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.runtimeconfig.json
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\NFT-Opensea-Bulk-Pricing.pdb
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\bin\Debug\net6.0\WebDriver.dll
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.csproj.AssemblyReference.cache
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.AssemblyInfoInputs.cache
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.AssemblyInfo.cs
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.csproj.CoreCompileInputs.cache
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.csproj.CopyComplete
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\refint\NFT-Opensea-Bulk-Pricing.dll
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.pdb
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\NFT-Opensea-Bulk-Pricing.genruntimeconfig.cache
+C:\Users\ÄGARE\Desktop\repos\github\Niborium-NFT-OpenSea-Bulk-Pricing-Fixed-bot\NFT-Opensea-Bulk-Pricing\obj\Debug\net6.0\ref\NFT-Opensea-Bulk-Pricing.dll

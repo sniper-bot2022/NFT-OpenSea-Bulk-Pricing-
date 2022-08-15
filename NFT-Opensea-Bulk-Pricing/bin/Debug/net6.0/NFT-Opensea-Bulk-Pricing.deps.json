@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NFT-Opensea-Bulk-Pricing/1.0.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.2.0",
+          "Selenium.WebDriver.ChromeDriver": "102.0.5005.6102"
+        },
+        "runtime": {
+          "NFT-Opensea-Bulk-Pricing.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.2.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/net5.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/102.0.5005.6102": {}
+    }
+  },
+  "libraries": {
+    "NFT-Opensea-Bulk-Pricing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1FE1Y1F0p6zuS/1RybCxkuoywVvcV2XJv10uqShOTNSpY/hyLM3Hk/D03CPmqkZ4l2vYArcjlunTV/FSY7dpmA==",
+      "path": "selenium.webdriver/4.2.0",
+      "hashPath": "selenium.webdriver.4.2.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/102.0.5005.6102": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TGqy37Fn7QXfkOYSLHWorYTPJyeUA88FolgwdDZCafs//FqlTMet4zNGH4nGBOH/bjeWHHBmjmAwtpu/L4iQcg==",
+      "path": "selenium.webdriver.chromedriver/102.0.5005.6102",
+      "hashPath": "selenium.webdriver.chromedriver.102.0.5005.6102.nupkg.sha512"
+    }
+  }
+}

@@ -1,3 +1,6 @@
+
+
+
 # NFT-OpenSea-Bulk-Pricing-
 Niborium NFT OpenSea Bulk Pricing (Fixed) bot
 
@@ -26,3 +29,6 @@ Note: This instructions will be displayed in the terminal aswell.
     Write confirm in this terminal to start selling all your NFTS.
 
 
+
+OpenSea Bot / NFT Bot 2022 / Fast Buy / Opensea Bidding Bot/ Listing Bot Opensea
+https://t.me/csniperbot/38
